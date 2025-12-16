@@ -5,7 +5,6 @@ I work on both **frontend and backend**, and I often help with technical decisio
 
 I like writing clean, understandable code and building things that people actually use.
 
----
 
 ### Tech I use
 - React, Next.js  
@@ -14,7 +13,6 @@ I like writing clean, understandable code and building things that people actual
 - TailwindCSS, HTML, CSS  
 - Git & GitHub
 
----
 
 ### What I enjoy
 - Clean UI and good user experience  
@@ -23,7 +21,6 @@ I like writing clean, understandable code and building things that people actual
 - Improving existing codebases
 - Making the life easier for others
 
----
 
 ### Open to
 - Remote roles and interesting projects
