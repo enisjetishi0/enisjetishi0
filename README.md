@@ -10,7 +10,7 @@ I like writing clean, understandable code and building things that people actual
 - React, Next.js  
 - TypeScript / JavaScript  
 - Node.js, NestJS, PostgreSQL  
-- TailwindCSS, HTML, CSS  
+- TailwindCSS, Vite 
 - Git & GitHub
 
 
