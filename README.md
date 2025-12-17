@@ -1,4 +1,4 @@
-# Hi, I’m Enis 👋
+# Hi, I’m Enis
 
 I’m a software engineer with around **5 years of experience**, mostly building web apps.  
 I work on both **frontend and backend**, and I often help with technical decisions and code reviews.
