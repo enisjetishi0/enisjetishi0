@@ -1,6 +1,6 @@
 # Hi, I’m Enis
 
-I’m a software engineer with around **5 years of experience**, mostly building web apps.  
+I’m a software engineer with almost **5 years of experience**, mostly building web apps.  
 I work on both **frontend and backend**, and I often help with technical decisions and code reviews.
 
 I like writing clean, understandable code and building things that people actually use.
