@@ -26,3 +26,4 @@ I like writing clean, understandable code and building things that people actual
 - Remote roles and interesting projects
 
   
+NOTE: Most of my projects are imported from my other github account, which is not used anymore.
