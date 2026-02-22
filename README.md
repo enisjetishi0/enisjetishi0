@@ -6,22 +6,23 @@ I work on both **frontend and backend**, and I often help with technical decisio
 I like writing clean, understandable code and building things that people actually use.
 
 
-### Tech I use
+### Tech I use DAILY
 - React, Next.js  
-- TypeScript / JavaScript  
+- TypeScript  
 - Node.js, NestJS, PostgreSQL  
 - TailwindCSS, Vite 
 - Git & GitHub
+- Figma
 
 
 ### What I enjoy
-- Clean UI and good user experience  
-- Developer tools and internal tools  
-- Adding AI features like summaries or automation  
-- Improving existing codebases
+- Clean UI and good user experience
+- Security
+- Dev tools
 - Making the life easier for others
 
 
 ### Open to
 - Remote roles and interesting projects
 
+  
